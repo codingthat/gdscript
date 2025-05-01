@@ -16,4 +16,4 @@ To help you get started, each exercise comes with a GDScript file named after th
 You can use this file as a starting point for building your solution.
 Feel free to change it as needed, but the tests expect the function names to be as originally provided.
 
-[test-installation-steps]: https://exercism.org/docs/tracks/gdscript/tests
+[test-installation-steps]: https://exercism.org/docs/tracks/gdscript/installation
