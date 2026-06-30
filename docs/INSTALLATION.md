@@ -47,8 +47,8 @@ With the installation steps done, you should be able start from any exercise dir
 
 ## Using an IDE
 
-For features like syntax highlighting of GDScript files from, for example, [Visual Studio Code][vscode], you'll need an extension like [godot-tools][godot-tools] installed and activated, and a running debug server.
-When you open the Godot GUI and open a project, a debug server automatically runs in the background until you close the project or Godot.
+To get GDScript syntax highlighting inside an editor like [Visual Studio Code][vscode], you'll need an extension such as [godot-tools][godot-tools] installed plus a running debug server.
+Godot starts this debug server automatically whenever a project is open in its own editor and keeps it running until the project or Godot itself is closed.
 
 [godot-engine]: https://godotengine.org/
 [working-locally]: /docs/using/solving-exercises/working-locally.md
